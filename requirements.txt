@@ -11,7 +11,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.3
 cryptography==2.8
-Django==1.8.2
+Django==2.2.24
 django-haystack==2.3.0
 django-redis==3.8.4
 django-tinymce==2.6.0
