@@ -27,7 +27,7 @@ more-itertools==7.2.0
 mutagen==1.43.0
 numpy==1.18.1
 packaging==20.0
-Pillow==6.2.1
+Pillow==9.0.1
 pluggy==0.13.1
 py==1.8.1
 pybind11==2.4.3
